@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto-Regular'),
+         url('/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+    unicode-range: U+000-5FF; /* Latin glyphs */
+  }
+
+  @font-face {
+     font-family: 'Roboto';
+     font-style: italic;
+     font-weight: 400;
+     src: local('Roboto-RegularItalic'),
+          url('/fonts/Roboto/Roboto-RegularItalic.ttf') format('truetype');
+     unicode-range: U+000-5FF; /* Latin glyphs */
+   }
